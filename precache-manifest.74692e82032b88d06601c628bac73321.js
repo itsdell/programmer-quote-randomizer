@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "545ea89e3ec167f8e4f76feef5f5b70e",
+    "revision": "577359c7b0ad36baaba612be9e8c773a",
     "url": "/programmer-quote-randomizer/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/programmer-quote-randomizer/static/css/2.04ff9426.chunk.css"
   },
   {
-    "revision": "2f3daeb8acc9250c29b3",
+    "revision": "c09aa4014245f518738d",
     "url": "/programmer-quote-randomizer/static/css/main.df26ecd5.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/programmer-quote-randomizer/static/js/2.72cbe948.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2f3daeb8acc9250c29b3",
-    "url": "/programmer-quote-randomizer/static/js/main.b1e58104.chunk.js"
+    "revision": "c09aa4014245f518738d",
+    "url": "/programmer-quote-randomizer/static/js/main.faa1f95e.chunk.js"
   },
   {
     "revision": "c1da6e87bdf653224c9b",
